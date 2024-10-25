@@ -1,3 +1,4 @@
 requests
 colorama
 python-dotenv
+fake_useragent
