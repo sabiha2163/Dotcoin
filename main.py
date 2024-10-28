@@ -19,7 +19,7 @@ def print_welcome_message():
     print(Fore.GREEN + Style.BRIGHT + "Youtube: https://youtube.com/@Yk-Daemon")
     print(Fore.GREEN + Style.BRIGHT + "Github: https://github.com/rizmyabdulla/dotcoin")
     print(Fore.GREEN + Style.BRIGHT + "Join our tg channel for updates: https://t.me/ykdaemon")
-    print(Fore.GREEN + Style.BRIGHT + "Tg group: https://t.me/yk_daemon\n")
+    print(Fore.GREEN + Style.BRIGHT + "Tg group: https://t.me/habibulla_khan")
 
 def clear_console():
     os.system('cls' if os.name == 'nt' else 'clear')
